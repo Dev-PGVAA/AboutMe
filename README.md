@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">A young frontend developer from Russia</h3>
 
-- 🔭 I’m currently working on [Vibes](https://github.com/Dev-PGVAA/Music-GQL/tree/main)
+- 🔭 I’m currently working on [Vibes](https://github.com/Dev-PGVAA/Vibes/tree/main)
 
 - 🌱 I’m currently learning **GraphQL**
 
